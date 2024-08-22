@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Unit Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tests/test_crypto_network.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
