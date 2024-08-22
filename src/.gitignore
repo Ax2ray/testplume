@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+git add src/crypto_network.py .gitignore
